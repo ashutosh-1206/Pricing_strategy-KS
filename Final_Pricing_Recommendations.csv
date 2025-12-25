@@ -1,0 +1,51 @@
+SKU,Product Role,Current_Price,Recommended_Price,Logic_Reason
+MN-01,Core,38.9,49.69,Market/Margin Alignment
+MN-02,Core,33.9,40.92,Market/Margin Alignment
+MN-03,Core,34.9,46.2,Market/Margin Alignment
+MN-04,Core,29.9,39.91,Market/Margin Alignment
+MN-05,Seasonal,21.9,46.85,Market/Margin Alignment
+MN-06,Seasonal,14.95,26.13,Market/Margin Alignment
+MN-07,Core,34.9,45.95,Market/Margin Alignment
+MN-08,Seasonal,29.9,34.81,Overstock Strategy (Floor Applied)
+MN-09,Seasonal,14.9,19.89,Overstock Strategy (Floor Applied)
+MN-10,Core,19.9,26.77,Market/Margin Alignment
+MN-11,Core,16.9,23.48,Market/Margin Alignment
+MN-12,Core,19.9,27.9,Stock Pressure Management
+MN-13,Core,22.9,27.38,Market/Margin Alignment
+MN-14,Core,26.9,38.35,Stock Pressure Management
+MN-15,Core,21.9,29.6,Market/Margin Alignment
+MN-16,Core,19.9,26.77,Market/Margin Alignment
+MN-17,Core,29.9,43.05,Stock Pressure Management
+MN-18,Core,26.9,42.66,Market/Margin Alignment
+MN-19,Core,36.9,50.68,Stock Pressure Management
+MN-20,Core,11.9,16.95,Market/Margin Alignment
+MN-21,Core,21.9,29.85,Market/Margin Alignment
+MN-22,Core,20.9,29.35,Market/Margin Alignment
+MN-23,Core,9.95,16.0,Market/Margin Alignment
+MN-24,Core,19.9,24.03,Market/Margin Alignment
+MN-25,Core,34.9,48.02,Stock Pressure Management
+MN-26,Core,29.9,41.31,Market/Margin Alignment
+MN-27,Core,28.9,37.2,Market/Margin Alignment
+MN-28,Core,24.9,34.57,Market/Margin Alignment
+MN-29,Core,21.9,27.25,Market/Margin Alignment
+MN-30,Core,34.9,54.2,Market/Margin Alignment
+MN-31,Core,28.9,40.85,Market/Margin Alignment
+MN-32,Core,26.9,36.78,Market/Margin Alignment
+MN-33,Core,25.9,34.09,Market/Margin Alignment
+MN-34,Core,32.9,43.75,Market/Margin Alignment
+MN-35,Core,31.9,43.83,Market/Margin Alignment
+MN-36,Core,29.9,38.54,Market/Margin Alignment
+MN-37,Core,28.9,39.88,Market/Margin Alignment
+MN-38,Core,29.9,39.29,Market/Margin Alignment
+MN-39,Core,24.9,35.28,Market/Margin Alignment
+MN-40,Core,23.9,30.26,Market/Margin Alignment
+MN-41,Core,78.9,97.57,Market/Margin Alignment
+MN-42,Core,73.9,78.14,Market/Margin Alignment
+MN-43,Core,13.9,16.63,Market/Margin Alignment
+MN-44,Core,11.9,14.86,Market/Margin Alignment
+MN-45,Core,29.9,39.51,Market/Margin Alignment
+MN-46,Core,26.9,32.29,Market/Margin Alignment
+MN-47,Core,76.9,73.06,Overstock Strategy
+MN-48,Core,89.9,106.12,Market/Margin Alignment
+MN-49,Core,32.9,47.02,Market/Margin Alignment
+MN-50,Core,29.9,42.46,Stock Pressure Management
